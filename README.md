@@ -1,2 +1,2 @@
-# cauculadora-Duane-e-Joao
-cauculadora topper
+# calculadora-Duane-e-Joao
+calculadora topper
