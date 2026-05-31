@@ -5,8 +5,13 @@ Código de Validação: AUTH-GIT-JAVA-2026
 
 ## Integrantes
 
-- João Vitor Almeida
-- Duane
+- João Vitor Almeida (R.A: 12620422)
+- Duane (R.A: 12620526)
+
+## Turma
+
+- [] ADS (Analise e Desenvolvimendos de Sistemas)
+- [x] SI (Sistemas de Informação)
 
 ## Descrição
 
