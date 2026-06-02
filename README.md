@@ -6,7 +6,7 @@ Código de Validação: AUTH-GIT-JAVA-2026
 ## Integrantes
 
 - João Vitor Almeida (R.A: 12620422)
-- Duane (R.A: 12620526)
+- Duane Teixeira de lima (R.A: 12620526)
 
 ## Turma
 
